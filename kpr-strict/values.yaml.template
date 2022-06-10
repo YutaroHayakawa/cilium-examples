@@ -1,0 +1,4 @@
+---
+kubeProxyReplacement: strict
+k8sServiceHost: REPLACEME
+k8sServicePort: 6443
